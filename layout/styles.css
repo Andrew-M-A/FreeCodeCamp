@@ -1,0 +1,18 @@
+img {
+  width: 100px,;
+  height: 100px;
+  display: hidden;
+}
+
+.head {
+  font-size: 24px;
+  text-align: center;
+}
+
+.splash-text {
+  font-size: 36px;
+}
+
+.splash-content {
+  margin: 0;
+}
